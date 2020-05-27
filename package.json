@@ -1,0 +1,23 @@
+{
+  "name": "pipeline-practice",
+  "version": "1.0.0",
+  "description": "This is a basic project to help me understand how to set up a CI/CD with node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Furman950/pipeline-practice.git"
+  },
+  "author": "Fermin Sandoval",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Furman950/pipeline-practice/issues"
+  },
+  "homepage": "https://github.com/Furman950/pipeline-practice#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
